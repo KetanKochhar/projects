@@ -1,0 +1,38 @@
+Sure! Here's a rewritten and beautified version of your project descriptions for your portfolio:
+
+Project 1: Hotel Management System
+----------------------------------
+
+Description: 
+A command-line based Hotel Management System implemented using Python and MySQL. This project allows users to manage various aspects of a hotel, including room reservations, guest information, billing, and check-in/check-out processes.
+
+Key Features:
+- User-friendly command-line interface for easy interaction.
+- Database integration with MySQL for efficient data storage and retrieval.
+- Room reservation system to manage room availability and bookings.
+- Guest management functionality, including storing guest information and assigning rooms.
+- Billing system to calculate and generate bills for guests.
+- Check-in and check-out functionality to track the occupancy status of rooms.
+
+Technologies Used:
+- Python programming language for implementing the core functionality.
+- MySQL database for data storage and retrieval.
+
+Note: To run this project, ensure you have Python and MySQL installed. Set the MySQL password to "coder" or modify the password in the Python file (find `password = "coder"`) to match your MySQL password.
+
+Project 2: Library Management System
+------------------------------------
+
+Description: 
+A command-line based Library Management System developed using Python and MySQL. This project enables efficient management of library resources, including books, borrowers, and transactions.
+
+Key Features:
+- Command-line interface for easy interaction with the library system.
+- Integration with MySQL database for secure storage and retrieval of library data.
+- Book management features, such as adding new books
+
+Technologies Used:
+- Python programming language for implementing the core functionality.
+- MySQL database for data storage and retrieval.
+
+Note: To run this project, make sure you have Python and MySQL installed. Set the MySQL password to "coder" or modify the password in the Python file (find `password = "coder"`) to match your MySQL password.
